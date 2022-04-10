@@ -14,5 +14,7 @@ Kelas   : TI.20.B1
 
 ![membuat dokumen javascript](gambar/javascript.JPG)
 
+Lalu hasil nya setelah di jalankan/Run maka seperti ini:
+![hasil run](gambar/hasil1.JPG)
 
 
